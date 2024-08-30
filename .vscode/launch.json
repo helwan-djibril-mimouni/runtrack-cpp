@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Moi/Documents/GitHub/runtrack-cpp/jour02/job10",
-      "program": "c:/Users/Moi/Documents/GitHub/runtrack-cpp/jour02/job10/build/Debug/outDebug",
+      "cwd": "c:/Users/Moi/Documents/GitHub/runtrack-cpp/jour04/job06",
+      "program": "c:/Users/Moi/Documents/GitHub/runtrack-cpp/jour04/job06/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
